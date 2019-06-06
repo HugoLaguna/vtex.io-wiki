@@ -12,14 +12,3 @@ ones.
 
 <p>You can test if everything works by calling `vtex`, which will show you a
 help text with all available commands.</p>
-
-
-
-
-Basic dependencies for enviroment of VTEX.IO Store 
-
-    vtex.admin-home@1.x
-    vtex.admin@2.x
-    vtex.admin-pages@3.x
-    vtex.store@2.x
-    vtex.store-sitemap@1.x
