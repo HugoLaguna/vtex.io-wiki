@@ -2,7 +2,7 @@
 
 
 All development in the VTEX platform starts with the
-[VTEX.IOToolbelt](https://github.com/vtex/toolbelt)
+[VTEX.IO Toolbelt](https://github.com/vtex/toolbelt)
 , our CLI that allows you to log in, manage installed apps and develop new
 ones.
 
